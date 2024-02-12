@@ -6,7 +6,9 @@ My lab and I study human behavior and the 🧠, with a focus on spatial navigati
 
 I use a variety of computational approaches, including machine learning and computational modeling
 
-I am fond of Python, R, and Unity
+I am fond of Python, R, and Unity/C#
+
+I am currently learning Julia
 
 I teach courses in neuroscience
 
