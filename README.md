@@ -8,7 +8,7 @@ I use a variety of computational approaches, including machine learning and comp
 
 I am fond of Python, R, and Unity/C#
 
-I am currently learning Julia
+I am currently learning Go and Julia
 
 I teach courses in neuroscience
 
